@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/scramjetorg/scramjet-issue-tests/issues"
   },
-  "homepage": "https://github.com/scramjetorg/scramjet-issue-tests#readme"
+  "homepage": "https://github.com/scramjetorg/scramjet-issue-tests#readme",
+  "dependencies": {
+    "scramjet": "^4.35.12"
+  }
 }
